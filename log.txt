@@ -1,5 +1,10 @@
-bcace9b (HEAD -> main) Completed Task 1.1
-2b4f164 (origin/main, origin/HEAD) fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
+20f5c31 (HEAD -> main) Completed Task 2.4
+d849da4 Completed Task 2.3
+666f5a6 Completed Task 2.2
+cf1987a Completed Task 2.1
+bef9c43 (origin/main, origin/HEAD) Completed Task 1.2
+bcace9b Completed Task 1.1
+2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
